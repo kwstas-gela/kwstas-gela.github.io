@@ -1,1 +1,1 @@
-# progintro-hw0-kwstas-gela
+# ask1 repository
